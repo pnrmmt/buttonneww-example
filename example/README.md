@@ -1,1 +1,1 @@
-https://www.npmjs.com/package/buttonneww-example
+https://www.npmjs.com/package/buttonneww
