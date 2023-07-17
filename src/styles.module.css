@@ -1,9 +1,39 @@
 /* add css module styles here (optional) */
 
-.test {
-  margin: 2em;
-  padding: 0.5em;
-  border: 2px solid #000;
-  font-size: 2em;
-  text-align: center;
+button.btn {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 20px;
+  border-radius: 10px;
+
 }
+
+button.primary {
+  background-color: rgb(243, 33, 96);
+  color: #ffffff;
+  border: none;
+}
+
+button.default {
+  border: 2px solid rgb(211, 22, 78);
+  background-color: #ffffff;
+  color: #000000;
+}
+
+button.dashed {
+  border: 2px dotted rgb(231, 23, 75);
+  background-color: #ffffff;
+}
+
+button.text {
+  background-color: rgb(36, 32, 33);
+  border: none;
+  color: #ffffff;
+}
+
+button.link {
+  background-color: rgb(252, 209, 222);
+  border: none;
+  color: blue;
+}
+
+
